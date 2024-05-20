@@ -1,4 +1,4 @@
-# Wealth-of-Nations-Project-
+# Wealth-of-Nations-Project
 Wealth of Nations Project using Tableau and Excel
 
 Data Visualisation Assignment 1.doxc (word document):
